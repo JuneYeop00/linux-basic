@@ -1,5 +1,4 @@
 #!/bin/sh
 
-touch test.txt
- cp originaltest.txt copy_of_test.txt
-
+touch original.txt
+cp original.txt copy_of_original.txt

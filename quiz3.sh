@@ -1,3 +1,3 @@
-sh bin!#
+#!/bin/sh
 
 touch myFile.txt
